@@ -1,0 +1,28 @@
+name: shade_sweep
+description: A soft band of light that sweeps across avatars, initials tiles and badges, taking turns so only one plays at a time. Respects reduced-motion settings.
+version: 0.1.0
+# repository: https://github.com/<your-user>/shade_sweep   # add before publishing
+
+environment:
+  sdk: ^3.5.0
+  flutter: ">=3.24.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^9.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+topics:
+  - animation
+  - shimmer
+  - avatar
+  - widget
+
+screenshots:
+  - description: Avatars sweeping one after another.
+    path: doc/demo.gif
