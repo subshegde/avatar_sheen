@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:shade_sweep/shade_sweep.dart';
+import 'package:avatar_sheen/avatar_sheen.dart';
 
 void main() => runApp(const MaterialApp(home: Demo()));
 
@@ -10,7 +10,7 @@ class Demo extends StatelessWidget {
   Widget build(BuildContext context) {
     const names = ['Asha Rao', 'Ravi Kumar', 'Meera Nair', 'John Doe'];
     return Scaffold(
-      appBar: AppBar(title: const Text('shade_sweep')),
+      appBar: AppBar(title: const Text('avatar_sheen')),
       body: ListView(
         children: [
           for (final n in names)

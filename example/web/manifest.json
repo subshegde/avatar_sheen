@@ -1,6 +1,6 @@
 {
-    "name": "shade_sweep_example",
-    "short_name": "shade_sweep_example",
+    "name": "avatar_sheen_example",
+    "short_name": "avatar_sheen_example",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

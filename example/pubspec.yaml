@@ -1,5 +1,5 @@
-name: shade_sweep_example
-description: Example app for shade_sweep.
+name: avatar_sheen_example
+description: Example app for avatar_sheen.
 publish_to: none
 version: 1.0.0
 
@@ -9,7 +9,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  shade_sweep:
+  avatar_sheen:
     path: ../
 
 dev_dependencies:

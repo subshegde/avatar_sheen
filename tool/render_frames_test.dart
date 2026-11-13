@@ -7,7 +7,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:shade_sweep/shade_sweep.dart';
+import 'package:avatar_sheen/avatar_sheen.dart';
 
 void main() {
   testWidgets('frames', (tester) async {

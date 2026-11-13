@@ -1,3 +1,3 @@
-# shade_sweep_example
+# avatar_sheen_example
 
 A new Flutter project.

@@ -1,4 +1,4 @@
-<h1 align="center">shade_sweep</h1>
+<h1 align="center">avatar_sheen</h1>
 
 <p align="center">
   A soft band of light that sweeps across avatars, initials tiles, badges or any widget.
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="doc/demo.gif" alt="shade_sweep demo" width="320" />
+  <img src="doc/demo.gif" alt="avatar_sheen demo" width="320" />
 </p>
 
 <p align="center">
@@ -32,11 +32,11 @@
 
 ```yaml
 dependencies:
-  shade_sweep: ^0.1.0
+  avatar_sheen: ^0.1.0
 ```
 
 ```dart
-import 'package:shade_sweep/shade_sweep.dart';
+import 'package:avatar_sheen/avatar_sheen.dart';
 ```
 
 ## Usage

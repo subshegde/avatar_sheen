@@ -1,4 +1,4 @@
-package com.example.shade_sweep_example
+package com.example.avatar_sheen_example
 
 import io.flutter.embedding.android.FlutterActivity
 
